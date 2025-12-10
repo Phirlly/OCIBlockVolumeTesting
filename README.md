@@ -1,4 +1,4 @@
-# OCI Block Volume Performance Testing (Terraform + Jupyter)
+# OCI Block Volume Performance Testing (Terraform + Jupyter Notebook)
 
 ## Objective
 Provision a temporary OCI compute instance and block volume with Terraform, then benchmark the block volume on the instance using `fio`. Results are exported to CSV with key test metadata.
